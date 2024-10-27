@@ -1,0 +1,49 @@
+*{
+  transition: background-color 0.5s ease, transform 0.5s ease;
+}
+.main-container{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.quote-box{
+  background-color: white;
+  height: auto;
+  max-width: 50%;
+  width: auto;
+  padding: 2%;
+}
+.text{
+  padding-top: 8%;
+  font-size: 30px;
+  padding-left: 2%;
+  padding-right: 2%;
+  text-align: center;
+}
+.author{
+  width: 92%;
+  text-align: end;
+  padding-top: 5%;
+  font-size: 20px;
+}
+.butcontain{
+  width: 100%;
+  padding: 2%;
+  display: flex;
+}
+.tweet-quote{
+  padding: 10px;
+}
+.containbut{
+  display: flex;
+  justify-content: space-between;
+}
+.new-quote{
+  border: 0px;
+  height: 45px;
+  color: white;
+  margin-top: 20%;
+  cursor: pointer;
+}
