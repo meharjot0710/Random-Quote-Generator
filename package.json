@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://meharjot0710.github.io/<repository-name>",
+  "homepage": "https://meharjot0710.github.io/Random-Quote-Generator",
   "eslintConfig": {
     "extends": [
       "react-app",
