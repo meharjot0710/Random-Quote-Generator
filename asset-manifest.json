@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/%3Crepository-name%3E/static/css/main.29cbb592.css",
-    "main.js": "/%3Crepository-name%3E/static/js/main.9dbe27e6.js",
-    "static/js/453.42c8d0f0.chunk.js": "/%3Crepository-name%3E/static/js/453.42c8d0f0.chunk.js",
-    "static/media/fa-solid-900.ttf": "/%3Crepository-name%3E/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/%3Crepository-name%3E/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/%3Crepository-name%3E/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/%3Crepository-name%3E/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/%3Crepository-name%3E/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/%3Crepository-name%3E/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/%3Crepository-name%3E/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/%3Crepository-name%3E/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/%3Crepository-name%3E/index.html",
-    "main.29cbb592.css.map": "/%3Crepository-name%3E/static/css/main.29cbb592.css.map",
-    "main.9dbe27e6.js.map": "/%3Crepository-name%3E/static/js/main.9dbe27e6.js.map",
-    "453.42c8d0f0.chunk.js.map": "/%3Crepository-name%3E/static/js/453.42c8d0f0.chunk.js.map"
+    "main.css": "/Random-Quote-Generator/static/css/main.81eb965c.css",
+    "main.js": "/Random-Quote-Generator/static/js/main.fed796e2.js",
+    "static/js/453.42c8d0f0.chunk.js": "/Random-Quote-Generator/static/js/453.42c8d0f0.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Random-Quote-Generator/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Random-Quote-Generator/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Random-Quote-Generator/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Random-Quote-Generator/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Random-Quote-Generator/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Random-Quote-Generator/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Random-Quote-Generator/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Random-Quote-Generator/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Random-Quote-Generator/index.html",
+    "main.81eb965c.css.map": "/Random-Quote-Generator/static/css/main.81eb965c.css.map",
+    "main.fed796e2.js.map": "/Random-Quote-Generator/static/js/main.fed796e2.js.map",
+    "453.42c8d0f0.chunk.js.map": "/Random-Quote-Generator/static/js/453.42c8d0f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29cbb592.css",
-    "static/js/main.9dbe27e6.js"
+    "static/css/main.81eb965c.css",
+    "static/js/main.fed796e2.js"
   ]
 }
